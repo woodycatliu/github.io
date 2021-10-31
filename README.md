@@ -1,2 +1,2 @@
-# myAds
+# myAds.github.io
 myAds.github.io
